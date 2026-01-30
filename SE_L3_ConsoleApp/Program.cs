@@ -1,10 +1,14 @@
-﻿using Views;
+﻿using Models;
+using ViewModels;
+using Views;
 
 public class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        UserView uv = new UserView();
-        uv.Run();
+        var mod = new User();
+        var vm = new UserViewModel(mod);
+        var view = new UserView(vm);
+        view.Run();
     }
 }

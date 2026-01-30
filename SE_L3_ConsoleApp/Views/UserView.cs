@@ -13,6 +13,7 @@ public class UserView
     public void Run()
     {
         string chaine = Console.ReadLine();
-        Console.WriteLine(chaine.ToUpper());
+        _vm.Transform(chaine);
+        
     }   
 }

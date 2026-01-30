@@ -1,0 +1,15 @@
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\bin\Debug\net10.0\SE_Bases.exe
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\bin\Debug\net10.0\SE_Bases.deps.json
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\bin\Debug\net10.0\SE_Bases.runtimeconfig.json
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\bin\Debug\net10.0\SE_Bases.dll
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\bin\Debug\net10.0\SE_Bases.pdb
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\obj\Debug\net10.0\SE_Bases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\obj\Debug\net10.0\SE_Bases.AssemblyInfoInputs.cache
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\obj\Debug\net10.0\SE_Bases.AssemblyInfo.cs
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\obj\Debug\net10.0\SE_Bases.csproj.CoreCompileInputs.cache
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\obj\Debug\net10.0\SE_Bases.sourcelink.json
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\obj\Debug\net10.0\SE_Bases.dll
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\obj\Debug\net10.0\refint\SE_Bases.dll
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\obj\Debug\net10.0\SE_Bases.pdb
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\obj\Debug\net10.0\SE_Bases.genruntimeconfig.cache
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_Bases\obj\Debug\net10.0\ref\SE_Bases.dll

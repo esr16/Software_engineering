@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SE_Bases/1.0.0": {
+        "runtime": {
+          "SE_Bases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SE_Bases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
