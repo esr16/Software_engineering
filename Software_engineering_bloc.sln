@@ -2,6 +2,14 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Software_engineering_bloc", "Software_engineering_bloc\Software_engineering_bloc.csproj", "{8746BFBA-6EFC-4A7D-8349-EB3EF4504574}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SE_L2_Corbeille_ConsoleApp", "SE_L2_Corbeille_ConsoleApp", "{20D8B6AD-CFC2-4D1D-A3CE-B8A488710941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE_L2_ConsoleApp", "SE_L2_ConsoleApp\SE_L2_ConsoleApp.csproj", "{D340FD09-ABA2-4FFE-B47C-96379DC7054E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SE_L3_Workshop_ConsoleApp", "SE_L3_Workshop_ConsoleApp", "{343321AF-C30A-4261-8195-EB7EAD1519F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE_L3_ConsoleApp", "SE_L3_ConsoleApp\SE_L3_ConsoleApp.csproj", "{A0A301D4-E2A0-4268-B120-3641D8267749}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +20,17 @@ Global
 		{8746BFBA-6EFC-4A7D-8349-EB3EF4504574}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8746BFBA-6EFC-4A7D-8349-EB3EF4504574}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8746BFBA-6EFC-4A7D-8349-EB3EF4504574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D340FD09-ABA2-4FFE-B47C-96379DC7054E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D340FD09-ABA2-4FFE-B47C-96379DC7054E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D340FD09-ABA2-4FFE-B47C-96379DC7054E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D340FD09-ABA2-4FFE-B47C-96379DC7054E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A301D4-E2A0-4268-B120-3641D8267749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A301D4-E2A0-4268-B120-3641D8267749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A301D4-E2A0-4268-B120-3641D8267749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A301D4-E2A0-4268-B120-3641D8267749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D340FD09-ABA2-4FFE-B47C-96379DC7054E} = {20D8B6AD-CFC2-4D1D-A3CE-B8A488710941}
+		{A0A301D4-E2A0-4268-B120-3641D8267749} = {343321AF-C30A-4261-8195-EB7EAD1519F3}
 	EndGlobalSection
 EndGlobal

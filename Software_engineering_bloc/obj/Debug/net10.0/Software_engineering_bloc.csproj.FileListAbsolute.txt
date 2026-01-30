@@ -1,0 +1,15 @@
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\bin\Debug\net10.0\Software_engineering_bloc.exe
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\bin\Debug\net10.0\Software_engineering_bloc.deps.json
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\bin\Debug\net10.0\Software_engineering_bloc.runtimeconfig.json
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\bin\Debug\net10.0\Software_engineering_bloc.dll
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\bin\Debug\net10.0\Software_engineering_bloc.pdb
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\obj\Debug\net10.0\Software_engineering_bloc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\obj\Debug\net10.0\Software_engineering_bloc.AssemblyInfoInputs.cache
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\obj\Debug\net10.0\Software_engineering_bloc.AssemblyInfo.cs
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\obj\Debug\net10.0\Software_engineering_bloc.csproj.CoreCompileInputs.cache
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\obj\Debug\net10.0\Software_engineering_bloc.sourcelink.json
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\obj\Debug\net10.0\Software_engineering_bloc.dll
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\obj\Debug\net10.0\refint\Software_engineering_bloc.dll
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\obj\Debug\net10.0\Software_engineering_bloc.pdb
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\obj\Debug\net10.0\Software_engineering_bloc.genruntimeconfig.cache
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\Software_engineering_bloc\obj\Debug\net10.0\ref\Software_engineering_bloc.dll

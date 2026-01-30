@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elodi\\RiderProjects\\Software_engineering_bloc\\Software_engineering_bloc\\Software_engineering_bloc.csproj": {}
+    "C:\\Users\\elodi\\RiderProjects\\Software_engineering_bloc\\SE_L3_ConsoleApp\\SE_L3_ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elodi\\RiderProjects\\Software_engineering_bloc\\Software_engineering_bloc\\Software_engineering_bloc.csproj": {
+    "C:\\Users\\elodi\\RiderProjects\\Software_engineering_bloc\\SE_L3_ConsoleApp\\SE_L3_ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elodi\\RiderProjects\\Software_engineering_bloc\\Software_engineering_bloc\\Software_engineering_bloc.csproj",
-        "projectName": "Software_engineering_bloc",
-        "projectPath": "C:\\Users\\elodi\\RiderProjects\\Software_engineering_bloc\\Software_engineering_bloc\\Software_engineering_bloc.csproj",
+        "projectUniqueName": "C:\\Users\\elodi\\RiderProjects\\Software_engineering_bloc\\SE_L3_ConsoleApp\\SE_L3_ConsoleApp.csproj",
+        "projectName": "SE_L3_ConsoleApp",
+        "projectPath": "C:\\Users\\elodi\\RiderProjects\\Software_engineering_bloc\\SE_L3_ConsoleApp\\SE_L3_ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\elodi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elodi\\RiderProjects\\Software_engineering_bloc\\Software_engineering_bloc\\obj\\",
+        "outputPath": "C:\\Users\\elodi\\RiderProjects\\Software_engineering_bloc\\SE_L3_ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elodi\\AppData\\Roaming\\NuGet\\NuGet.Config"
