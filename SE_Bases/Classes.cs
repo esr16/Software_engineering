@@ -6,7 +6,7 @@ abstract class AbstractClass
     public abstract void AbstractMethods();
 };
 
-// Class scéllée : classe qui ne peut pas être dérivée (pas de base pour héritage)
+// Classe scéllée : classe qui ne peut pas être dérivée (pas de base pour héritage)
 sealed class SealedClass
 {
     private string Parameters;

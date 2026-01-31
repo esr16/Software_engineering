@@ -4,6 +4,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
+        /*
         // Constructeurs
         Console.WriteLine("Sortie des constructeurs!");
         ConstructorsWithoutParameters without = new ConstructorsWithoutParameters();
@@ -67,6 +68,73 @@ public class Program
         MethodsAbstractImplementation abstractimplementation = new MethodsAbstractImplementation("abstractimplementation");
         abstractimplementation.Behavior();
         Console.WriteLine("Fin");
+        Console.WriteLine("=================================================");
         
+        
+        // Special Classes
+        IImplementation implementation = new IImplementation("interface parameter");
+        implementation.DisplayIParameter();
+        Console.WriteLine("---");
+
+        AImplementation aimplementation = new AImplementation("abstract parameter");
+        aimplementation.DisplayIParameter();
+        Console.WriteLine("---");
+        
+        VirtualClass2 vimplementation1 = new VirtualClass2("virtual parameter default");
+        vimplementation1.DisplayIParameter();
+        Console.WriteLine("---");
+        
+        VImplementation vimplementation2 = new VImplementation("virtual parameter override");
+        vimplementation2.DisplayIParameter();
+        */
+        
+        // Person and BankAccount
+
+        /*
+        Person person1 = new Person("Olivier", 52);
+        BankAccount bankaccount1 = new BankAccount(person1, 500);
+        bankaccount1.Deposer(100);
+        bankaccount1.Retirer(300);
+        bankaccount1.DisplaySolde();
+        Console.WriteLine("-------");
+        
+        Person person2 = new Person("Olivier2", 53);
+        BankAccount bankaccount2 = new BankAccount(person2, 300);
+        bankaccount2.Retirer(400);
+        bankaccount2.DisplaySolde();
+        */
+        
+        // Chat et Chien
+        /*
+
+        List<Animal> animals = new() ;
+        
+        animals.Add(new Chat("Myrtille"));
+        animals.Add(new Chien("Madria mon bébé d'amour"));
+        animals.Add(new Chat("Macaron le gros chat"));
+        animals.Add(new Chien("Madria toujours mon bébé chéri"));
+
+        foreach (Animal animal in animals)
+        {
+            animal.SePresenter();
+            animal.SeDeplacer();
+            animal.FaireDuBruit();
+        }
+        */
+        
+        // Paiement
+        /*
+        IPaiement paiement = new CarteBleue();
+        paiement.Payer();
+
+        Command commande = new Command(paiement);
+        commande.Valider(paiement);
+        
+         */
+        //Ligne de commande
+        Commande commande = new Commande();
+        Panier panier = new Panier(commande);
+        panier.DisplayLignes();
+
     }
 }
