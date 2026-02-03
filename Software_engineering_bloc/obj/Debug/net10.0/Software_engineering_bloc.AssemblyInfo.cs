@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Software_engineering_bloc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d946e23dc878a90fe321e2583d9b7f71481f70f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1147e0d673faf90e10b23a4a772a76c52d012fae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Software_engineering_bloc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Software_engineering_bloc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

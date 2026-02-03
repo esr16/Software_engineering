@@ -132,9 +132,49 @@ public class Program
         
          */
         //Ligne de commande
+        /*
         Commande commande = new Commande();
         Panier panier = new Panier(commande);
         panier.DisplayLignes();
+        */
+
+        /*
+        Adresses adresse = new Adresses("45 rue pétale de fleur");
+        Client client = new Client("Olivier Sandal", 45, adresse);
+        
+        Commande2 commande = new Commande2();
+        commande.AddLignesCommandes("Produit1", 52);
+        commande.AddLignesCommandes("Produit2", 43);
+        commande.AddLignesCommandes("Produit3", 44);
+        
+        Commande2 commande2 = new Commande2();
+        commande.AddLignesCommandes("Produit4", 52);
+        commande.AddLignesCommandes("Produit5", 43);
+        commande.AddLignesCommandes("Produit6", 44);
+        
+        IPaiement2 paiement = new CarteBleue2();
+        paiement.Payer(commande);
+        paiement.Valider(paiement, commande);
+        IPaiement2 paiement2 = new Paypal2();
+        paiement2.Payer(commande2);
+        paiement2.Valider(paiement2, commande2);
+        */
+
+        Vehicule voiture1 = new Voiture();
+        Vehicule voiture2 = new Voiture();
+        Vehicule voiture3 = new Voiture();
+        Vehicule moto1 = new Moto();
+        Vehicule moto2 = new Moto();
+        Vehicule moto3 = new Moto();
+
+        Garage garage = new Garage();
+        garage.AddVehicule(voiture1);
+        garage.AddVehicule(voiture2);
+        garage.AddVehicule(voiture3);
+        garage.AddVehicule(moto1);
+        garage.AddVehicule(moto2);
+        garage.AddVehicule(moto3);
+        garage.DemarrerTous();
 
     }
 }
