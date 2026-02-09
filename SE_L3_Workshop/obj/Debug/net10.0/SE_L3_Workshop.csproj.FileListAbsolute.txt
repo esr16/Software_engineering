@@ -1,0 +1,15 @@
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\bin\Debug\net10.0\SE_L3_Workshop.exe
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\bin\Debug\net10.0\SE_L3_Workshop.deps.json
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\bin\Debug\net10.0\SE_L3_Workshop.runtimeconfig.json
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\bin\Debug\net10.0\SE_L3_Workshop.dll
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\bin\Debug\net10.0\SE_L3_Workshop.pdb
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\obj\Debug\net10.0\SE_L3_Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\obj\Debug\net10.0\SE_L3_Workshop.AssemblyInfoInputs.cache
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\obj\Debug\net10.0\SE_L3_Workshop.AssemblyInfo.cs
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\obj\Debug\net10.0\SE_L3_Workshop.csproj.CoreCompileInputs.cache
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\obj\Debug\net10.0\SE_L3_Workshop.sourcelink.json
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\obj\Debug\net10.0\SE_L3_Workshop.dll
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\obj\Debug\net10.0\refint\SE_L3_Workshop.dll
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\obj\Debug\net10.0\SE_L3_Workshop.pdb
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\obj\Debug\net10.0\SE_L3_Workshop.genruntimeconfig.cache
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L3_Workshop\obj\Debug\net10.0\ref\SE_L3_Workshop.dll
