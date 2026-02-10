@@ -1,0 +1,15 @@
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\bin\Debug\net10.0\SE_L5_Workshop2.exe
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\bin\Debug\net10.0\SE_L5_Workshop2.deps.json
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\bin\Debug\net10.0\SE_L5_Workshop2.runtimeconfig.json
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\bin\Debug\net10.0\SE_L5_Workshop2.dll
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\bin\Debug\net10.0\SE_L5_Workshop2.pdb
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\obj\Debug\net10.0\SE_L5_Workshop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\obj\Debug\net10.0\SE_L5_Workshop2.AssemblyInfoInputs.cache
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\obj\Debug\net10.0\SE_L5_Workshop2.AssemblyInfo.cs
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\obj\Debug\net10.0\SE_L5_Workshop2.csproj.CoreCompileInputs.cache
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\obj\Debug\net10.0\SE_L5_Workshop2.sourcelink.json
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\obj\Debug\net10.0\SE_L5_Workshop2.dll
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\obj\Debug\net10.0\refint\SE_L5_Workshop2.dll
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\obj\Debug\net10.0\SE_L5_Workshop2.pdb
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\obj\Debug\net10.0\SE_L5_Workshop2.genruntimeconfig.cache
+C:\Users\elodi\RiderProjects\Software_engineering_bloc\SE_L5_Workshop2\obj\Debug\net10.0\ref\SE_L5_Workshop2.dll
